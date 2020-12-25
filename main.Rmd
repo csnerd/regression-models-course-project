@@ -1,8 +1,10 @@
 ---
-title: "main"
+title: 'Regression Models: Week-4 Course Project'
 author: "Mohamed"
 date: "25/12/2020"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 #### Synopsis
 This report was made in the context of the course “Regression models” delivered by Johns Hopkins University (Coursera.) This report aims at answering the following questions:
